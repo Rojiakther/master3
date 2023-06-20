@@ -1,0 +1,59 @@
+body{
+   background-color: #f5deb3;
+   color: black;
+   cursor: pointer;
+   border-radius: 25px;
+   justify-content: center;
+   align-items: center;
+   background-color: #69d918;
+   padding:250px;
+}
+h1{
+    color: #0000ff;
+    font-size: 50px;
+}
+label{
+    color: rgb(0, 0, 255);
+    font-size: 30px;
+}
+div{
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 65px;
+    left: 25px;
+    right: 25px;
+    background-color: rgb(202, 15, 136);
+    box-sizing: border-box;
+}
+.btn{
+    background-color: hwb(0 0% 0%);
+    width: 100px;
+}
+.btn:hover{
+    background-color: gold;
+    width: 50px;
+    transition: 1s;
+}
+.rst{
+    background-color: red;
+    width: 100px;
+}
+.rst:hover{
+    background-color: gold;
+    width: 50px;
+}
+input:focus{
+    background-color:darkviolet;}
+#heading1{
+    color: #0000ff;
+}
+.heading1{
+    color: hwb(240 0% 0%);
+}
+#admin box{
+    width: 50%;
+    padding: 25px;
+}
